@@ -55,9 +55,9 @@ Releases are handled via **GitHub Actions**, building both standard and **F‑Dr
 
 ## 📜 License
 
-All projects under this organization are **free software**.
+Booming Music is **free software**.
 
-Check the `LICENSE` file in each repository for specific details.
+Check the [LICENSE](https://github.com/BoomingSoftware/BoomingMusic/blob/master/LICENSE.txt) file in the repository for specific details.
 
 ---
 
@@ -65,7 +65,7 @@ Check the `LICENSE` file in each repository for specific details.
 
 If you made it this far and the project still interests you:
 
-* Explore the repositories
+* Explore the repository
 * Read the code
 * Open an issue — thoughtfully
 
