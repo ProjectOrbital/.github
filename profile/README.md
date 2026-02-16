@@ -1,74 +1,36 @@
-# 🎵 Booming Software
+# Project Orbital ⚛️
+> Software that revolves around you.
 
-Welcome to **Booming Software**, the GitHub organization that hosts (and grows) the ecosystem behind **Booming Music**.
-
-No buzzwords, no inflated marketing — just clean code, sensible technical decisions, and open‑source software done the right way.
-
----
-
-## 🚀 What is Booming?
-
-**Booming Music** is an **open‑source Android music player** focused on:
-
-* ⚡ Solid performance (no pointless fireworks)
-* 🎨 Modern yet functional design
-* 🔐 Respect for user privacy
-* 📦 Full **F‑Droid** compatibility
-* 🧠 Maintainable, well‑structured code
-
-This organization exists to separate concerns, scale the project properly, and keep things organized.
+Welcome to **Project Orbital**, an open-source ecosystem dedicated to building clean, privacy-focused, and high-performance applications. Our mission is to create a suite of tools where the user is the center of the system, just like a nucleus in an atom.
 
 ---
 
-## 🧩 Project philosophy
+## 🎵 Featured Project: Booming Music
+Our flagship application. A powerful, modern music player designed for those who value audio quality and a clutter-free experience.
 
-A few non‑negotiable principles:
-
-* 🧼 Clean code over “clever tricks”
-* 🏗️ Clear, predictable architecture
-* 🧪 Small, controlled changes
-* 📖 Proper documentation
-* 🔓 Real open source
+* **Status:** Active Development 🛠️
+* **Philosophy:** No tracking, no bloat, just music.
+* **Explore:** [View Repository](https://github.com/mardous/BoomingMusic)
 
 ---
 
-## 🤝 Contributing
+## 🧪 Why "Orbital"?
+In atomic physics, an **orbital** is a region where energy and matter exist in harmony. Similarly, our apps are designed to be:
 
-Contributions are welcome **as long as they meet the bar**.
-
-Before opening a pull request:
-
-1. Follow the project’s Code of Conduct and the Contribution Guidelines
-2. Clearly explain *what* you changed and *why*
-3. Avoid massive, unfocused commits
-4. New dependencies require a very good reason
+1. **Dynamic:** Constantly evolving with community feedback.
+2. **Stable:** Built on solid, transparent code.
+3. **User-Centric:** Everything revolves around you.
 
 ---
 
-## 🛠️ Project status
-
-Booming is under active development. Some parts are stable, others are evolving.
-
-Releases are handled via **GitHub Actions**, building both standard and **F‑Droid** variants, with clear versioning (`alpha`, `beta`, `rc`, stable).
+## 🤝 Contribute
+We are looking for developers, designers, and translators to join our orbit. 
+* Check our [Contribution Guidelines](CONTRIBUTING.md).
+* Join our discussions in the [Issues] tab.
 
 ---
 
 ## 📜 License
-
-Booming Music is **free software**.
-
-Check the [LICENSE](https://github.com/BoomingSoftware/BoomingMusic/blob/master/LICENSE.txt) file in the repository for specific details.
+All efforts under **Project Orbital** are released under open-source licenses (GPL/MIT) to ensure they remain free for everyone, forever.
 
 ---
-
-## 📣 Contact
-
-If you made it this far and the project still interests you:
-
-* Explore the repository
-* Read the code
-* Open an issue — thoughtfully
-
-Booming doesn’t promise to be the perfect music player, but it does aim to be one built with care and common sense.
-
-🎶 *Less noise. More music.*
